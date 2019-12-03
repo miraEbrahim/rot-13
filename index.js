@@ -26,6 +26,10 @@
       AND
       The Lowercase Alphabet a to z ASCII numbers start from 97 till 122
 
+      In JavaScript, fromCharCode() is a string method that is used to create a string from a sequence of Unicode values. Because the fromCharCode() method is a static method of the String constructor, it must be invoked through the String constructor object rather than through the particular instance of the String class.
+
+      https://www.techonthenet.com/js/string_fromcharcode.php
+
     > We will use a for loop to iterate while i is less then the length of the input is true.
       - The for loop runs, starting at the first Character in the input untill the input.lenth < i.
       - We will use if statement inside the for loop:
